@@ -1,5 +1,5 @@
 _Store
 *.swp
 log/*.log
-bin
 pkg
+.setting
