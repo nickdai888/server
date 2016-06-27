@@ -1,0 +1,81 @@
+[Debug]2016/06/26 18:06:58 main.go:91: Waiting for clients
+[Debug]2016/06/26 18:07:08 main.go:91: 127.0.0.1:58713  tcp connect success
+[Debug]2016/06/26 18:07:08 main.go:91: the msg is id:101 str:"hello" 
+[Debug]2016/06/26 18:07:08 main.go:91: Data has been sent back to client!
+[Debug]2016/06/26 18:07:08 main.go:91: 127.0.0.1:58713  connection error:  EOF
+[Debug]2016/06/26 18:08:59 main.go:91: 127.0.0.1:58735  tcp connect success
+[Debug]2016/06/26 18:08:59 main.go:91: the msg is id:101 str:"hello" 
+[Debug]2016/06/26 18:08:59 main.go:91: Data has been sent back to client!
+[Debug]2016/06/26 18:17:08 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 18:18:59 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 18:18:59 main.go:91: 127.0.0.1:58735  connection error:  read tcp 127.0.0.1:9999->127.0.0.1:58735: use of closed network connection
+[Debug]2016/06/26 21:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 21:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 21:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 21:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 21:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 21:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 21:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 21:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 22:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/26 23:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 00:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 01:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:11:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:21:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:31:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:41:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 02:51:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 03:01:02 main.go:91: It's really weird to get Nothing!!!
+[Debug]2016/06/27 03:01:02 main.go:91: It's really weird to get Nothing!!!
